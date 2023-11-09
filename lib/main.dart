@@ -1,4 +1,4 @@
-import 'package:apps/101/text_leran_view.dart';
+import 'package:apps/101/text_learn_view.dart';
 import 'package:flutter/material.dart';
 
 void main() {
