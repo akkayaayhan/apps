@@ -1,3 +1,4 @@
+import 'package:apps/101/scaffold_learn_view.dart';
 import 'package:apps/101/text_learn_view.dart';
 import 'package:flutter/material.dart';
 
@@ -16,7 +17,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: TextLearnView(),
+      home: ScaffoldLearnView(),
     );
   }
 }
